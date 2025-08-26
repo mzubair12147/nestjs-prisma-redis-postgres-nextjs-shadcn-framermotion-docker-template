@@ -1,4 +1,4 @@
-````markdown
+```markdown
 # Fullstack Dockerized Template (Next.js + NestJS + Postgres + Redis)
 
 A ready-to-use fullstack template with:
@@ -37,7 +37,7 @@ A ready-to-use fullstack template with:
 ```bash
 git clone https://github.com/yourusername/fullstack-template.git
 cd fullstack-template
-````
+```
 
 ### 2. Copy `.env.example`
 
