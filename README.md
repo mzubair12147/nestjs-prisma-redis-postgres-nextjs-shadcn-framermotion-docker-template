@@ -1,4 +1,4 @@
-```markdown
+
 # Fullstack Dockerized Template (Next.js + NestJS + Postgres + Redis)
 
 A ready-to-use fullstack template with:
@@ -211,30 +211,3 @@ make dev
 
 ---
 
-## Contributing
-
-We welcome contributions! To contribute:
-
-1. Fork the repository
-2. Create a new branch for your feature/fix
-3. Make changes
-4. Test using `make dev`
-5. Submit a pull request
-
----
-
-## License
-
-MIT License
-
----
-
-## Optional Enhancements
-
-* Add production Docker Compose (`docker-compose.prod.yml`)
-* Add automated CI/CD workflow (GitHub Actions)
-* Add pre-configured tests (Jest for backend, React Testing Library for frontend)
-* Include screenshots or demo GIFs for better presentation
-
-```
-```
